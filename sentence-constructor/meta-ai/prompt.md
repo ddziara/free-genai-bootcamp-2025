@@ -88,6 +88,6 @@ Meta AI Response: Let's work through this together. Here's a table of vocabulary
 </example>
 
 
-Student Input: Bears are at the door, did you leave the garbage out?
+Student Input: Did you see the raven this morning? They were looking at our garden.
 
 
