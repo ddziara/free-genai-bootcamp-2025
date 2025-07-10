@@ -96,3 +96,13 @@ The formatted output will generally contain three parts:
 - talk about vocabulary but try ot leave out the japanese words because the student can refer to the vocabulary table
 - reference the <file>sentence-structure-examples.xml</file> for consideration structure examples in terms of conciseness
 
+## Teacher Tests
+
+Please read this file so you can see more examples to provide better output <file>japanese-teaching-tests.md</file>
+
+## Last Checks
+
+- Make sure you read all the examples
+tell me that you have
+- Make sure you read the structure example files
+- Make sure you check how many columns there are in the vocab table
