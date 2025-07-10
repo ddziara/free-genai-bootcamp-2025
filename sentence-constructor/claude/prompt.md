@@ -94,6 +94,5 @@ The formatted output will generally contain three parts:
 ### Clues and Considerations
 - try and provide a non-nested bulleted list
 - talk about vocabulary but try ot leave out the japanese words because the student can refer to the vocabulary table
+- reference the <file>sentence-structure-examples.xml</file> for consideration structure examples in terms of conciseness
 
-
-Student Input: Did you see the raven this morning? They were looking at our garden.
